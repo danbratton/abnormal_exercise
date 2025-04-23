@@ -1,0 +1,11 @@
+customer_id,customer_name,cnt_users,remediation_action
+7,Phoenix Crest Construction,347,REVOKE_SESSIONS
+6,Elysian Capital,211,NOTIFICATION
+9,Silver Loom Systems,48,REVOKE_SESSIONS_RESET_PASSWORD
+5,Quantum Leap Marketing,14,REVOKE_SESSIONS_RESET_PASSWORD
+1,Novacal Solutions,47,NOTIFICATION
+10,Aurora Axis Enterprises,257,REVOKE_SESSIONS_RESET_PASSWORD
+3,Lumina Dynamics Inc.,371,REVOKE_SESSIONS
+8,"Nexus Auto Parts, Inc",200,REVOKE_SESSIONS
+2,Zenith Innovations Group,181,REVOKE_SESSIONS_RESET_PASSWORD
+4,Titan Forge Technologies,248,REVOKE_SESSIONS_RESET_PASSWORD
