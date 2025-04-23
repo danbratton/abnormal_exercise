@@ -1,0 +1,9 @@
+/.DS_Store
+/.abnormal_db
+/.env-local
+/.ipynb_checkpoints
+/Abnormal.ipynb
+/app
+/compose.yaml
+/dbt
+/exercises.sql
